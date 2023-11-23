@@ -12,7 +12,7 @@ body{
     min-height: 100vh;
     background: #DEB887; 
     background: #b68d67;
-    font-family: "Gochi Hand", cursive;
+    font-family: cursive;
     background-image: radial-gradient(#ffffff 7.9%, transparent 0);
     background-size: 5px 5px;
 }
